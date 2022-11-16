@@ -1,0 +1,3 @@
+"message": "User authorization successful",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzZjY2RmZWRmMTRiZTAwMTcyN2FiNDciLCJpYXQiOjE2NjgwNzUyMTAsImV4cCI6MTY2ODE2MTYxMH0.TIKHQGsEf478v3-p3QY24raIJPLRCaspSW9J9rPwr0w",
+    "expiresIn": "24 hrs"
